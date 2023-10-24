@@ -1,0 +1,1 @@
+console.writeline ("Hola este es mi primer terminal"); 
